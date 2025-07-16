@@ -1,9 +1,11 @@
+//plz remove the comment from this file and add your neon tech credentials for migrating table through config.json 
+
 {
   "development": {
-    "username": "neondb_owner",
-    "password": "npg_BXHn3AL8lYjb",
-    "database": "neondb",
-    "host": "ep-nameless-dream-a8ig8h8f-pooler.eastus2.azure.neon.tech",
+    "username": "sample_user",
+    "password": "sample_password",
+    "database": "sample_db",
+    "host": "ep-sample-host.neon.tech",
     "port": 5432,
     "dialect": "postgres",
     "dialectOptions": {
@@ -14,10 +16,10 @@
     }
   },
   "test": {
-    "username": "neondb_owner",
-    "password": "npg_BXHn3AL8lYjb",
-    "database": "neondb",
-    "host": "ep-nameless-dream-a8ig8h8f-pooler.eastus2.azure.neon.tech",
+    "username": "sample_user",
+    "password": "sample_password",
+    "database": "sample_db",
+    "host": "ep-sample-host.neon.tech",
     "port": 5432,
     "dialect": "postgres",
     "dialectOptions": {
@@ -28,10 +30,10 @@
     }
   },
   "production": {
-    "username": "neondb_owner",
-    "password": "npg_BXHn3AL8lYjb",
-    "database": "neondb",
-    "host": "ep-nameless-dream-a8ig8h8f-pooler.eastus2.azure.neon.tech",
+    "username": "sample_user",
+    "password": "sample_password",
+    "database": "sample_db",
+    "host": "ep-sample-host.neon.tech",
     "port": 5432,
     "dialect": "postgres",
     "dialectOptions": {

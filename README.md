@@ -442,8 +442,8 @@ We welcome contributions! Please follow these steps:
 ## 👨‍💻 Author
 
 **Mohammad Aman Patel**
-- GitHub: [@mohammadamanpatel] (https://github.com/mohammadamanpatel)
-- Email: [My Email] (ap5277478@gmail.com)
+- GitHub: [@mohammadamanpatel](https://github.com/mohammadamanpatel)
+- Email: [My Email](ap5277478@gmail.com)
 
 ---
 

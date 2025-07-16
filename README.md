@@ -262,6 +262,16 @@ Server running on: http://localhost:5001
 - **Headers:** `Content-Type: application/json`
 - **Body:** Raw JSON
 
+### 🌐 Live Production Server
+
+- **Method**: `POST`
+- **URL** : `https://identify-contact-task.onrender.com/api/v1/identify`
+- **Headers**: `Content-Type`: `application/json`
+- **Body**: Raw JSON
+
+
+🚀 Quick Test: You can test the API immediately using the live endpoint above without any local setup!
+
 ### 🎯 Test Cases
 
 #### Test Case 1: New Contact Creation

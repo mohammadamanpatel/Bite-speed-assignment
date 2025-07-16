@@ -1,4 +1,4 @@
-# 📞 Identify Contact API – TypeScript + Express + PostgreSQL + Sequelize
+# 📞 Identify Reconciliation – TypeScript + Express + PostgreSQL + Sequelize
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -443,7 +443,7 @@ We welcome contributions! Please follow these steps:
 
 **Mohammad Aman Patel**
 - GitHub: [@mohammadamanpatel](https://github.com/mohammadamanpatel)
-- Email: [My Email](ap5277478@gmail.com)
+- Email: ap5277478@gmail.com
 
 ---
 

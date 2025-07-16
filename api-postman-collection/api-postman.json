@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "48a5e110-cdde-4485-a4b2-d2fa51a21646",
+		"name": "contact-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30730048",
+		"_collection_link": "https://www.postman.com/amans-team-4963/workspace/identify-contact-endpoints/collection/30730048-48a5e110-cdde-4485-a4b2-d2fa51a21646?action=share&source=collection_link&creator=30730048"
+	},
+	"item": [
+		{
+			"name": "Identify-contact",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "//new contact\r\n\r\n// {\r\n//   \"email\": \"doc@fluxkart.com\",\r\n//   \"phoneNumber\": \"1234567890\"\r\n// }\r\n\r\n//same phoneNumber but different email\r\n\r\n// {\r\n//   \"email\": \"doc2@fluxkart.com\",\r\n//   \"phoneNumber\": \"1234567890\"\r\n// }\r\n\r\n//creating another new primary entry \r\n\r\n// {\r\n//   \"email\": \"doc3@fluxkart.com\",\r\n//   \"phoneNumber\": \"1234567891\"\r\n// }\r\n// {\r\n//   \"email\": \"doc4@fluxkart.com\",\r\n//   \"phoneNumber\": \"1234567892\"\r\n// }\r\n\r\n//email of primary2 and phoneNumber of primary 4\r\n\r\n// {\r\n//     \"email\":\"doc7@fluxkart.com\",\r\n//     \"phoneNumber\":\"1234567899\"\r\n// }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://identify-contact-task.onrender.com/api/v1/identify",
+					"protocol": "https",
+					"host": [
+						"identify-contact-task",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"identify"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

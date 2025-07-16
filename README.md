@@ -429,8 +429,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
----
-
 ## 👨‍💻 Author
 
 **Mohammad Aman Patel**

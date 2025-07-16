@@ -447,16 +447,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. 🐛 **Bug Reports**: Open an issue on GitHub
-2. 💡 **Feature Requests**: Discuss in GitHub Discussions
-3. 📧 **Direct Support**: Contact the maintainer
-
----
-
 ## 🥰 Acknowledgments
 
 - **Neon.tech** for providing excellent PostgreSQL hosting

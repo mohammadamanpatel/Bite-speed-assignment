@@ -183,10 +183,10 @@ Create a `.env` file with the following sample credentials:
 
 ```env
 # Database Configuration
-PGHOST=ep-nameless-dream-a8ig8h8f-pooler.eastus2.azure.neon.tech
-PGDATABASE=neondb
-PGUSER=neondb_owner
-PGPASSWORD=npg_BXHn3AL8lYjb
+PGHOST=<your-host>                # e.g., ep-xxxxxx.neon.tech
+PGDATABASE=<your-database>        # e.g., neondb
+PGUSER=<your-username>            # e.g., neondb_owner
+PGPASSWORD=<your-password>        # e.g., your Neon.tech DB password
 PGPORT=5432
 
 # Server Configuration
